@@ -15,7 +15,7 @@ open class ArmaDeFuego(
     private val radio = radio
 
     private companion object {
-        val radioPermitido = listOf<String>("Pequeño", "Amplio")
+        val radioPermitido = listOf("Pequeño", "Amplio")
     }
 
     init {
